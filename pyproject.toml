@@ -1,0 +1,12 @@
+[project]
+name = "autotagger"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "cel-python>=0.3.0",
+    "django>=5.2.4",
+    "factory-boy>=3.3.3",
+    "jsonschema>=4.25.0",
+]
